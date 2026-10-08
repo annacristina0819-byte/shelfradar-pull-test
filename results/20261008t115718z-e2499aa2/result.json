@@ -1,0 +1,11 @@
+{
+ "approval_commit": null,
+ "candidate": "3b1a31c4985470f29f8aa26559c39bf4601f763c",
+ "exit": 0,
+ "finished": "2026-10-08T11:58:02Z",
+ "output": "[sandbox-test: real engine output kept on the test host; published: result markers only]\nhost test-host-0, service toy.service, MainPID 4242, rss_MB 12.3, app dir /sandbox/app (artificial test values)\nBASELINE_MATCH=YES\nRESULT=OK",
+ "request_id": "20261008t115718z-e2499aa2",
+ "started": "2026-10-08T11:58:02Z",
+ "state": "DONE",
+ "verb": "check"
+}
