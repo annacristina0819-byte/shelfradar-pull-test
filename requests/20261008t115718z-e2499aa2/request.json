@@ -1,0 +1,11 @@
+{
+ "base": "57377747d1a7e4a25bc68fbe7276def5e40a73fa",
+ "bundle_sha256": "97ed4d8e6417cd33e667cf4948df5f771e3f2d7431f99a10e2c7dccd4d36b832",
+ "candidate": "3b1a31c4985470f29f8aa26559c39bf4601f763c",
+ "created_at": "2026-10-08T11:57:18Z",
+ "expires_at": "2026-10-09T11:57:18Z",
+ "format": 1,
+ "request_id": "20261008t115718z-e2499aa2",
+ "requested_by": "pull-test",
+ "verb": "check"
+}
